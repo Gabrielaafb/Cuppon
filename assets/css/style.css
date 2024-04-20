@@ -1,0 +1,150 @@
+body{
+     font-family: "Roboto",sans-serif;
+}
+header{
+    background-color: #28A745;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+#logo-white{
+    width: 86px;
+    display: flex;
+    justify-content: center;
+}
+#navbarNav{
+    display: flex;
+    justify-content: right;
+    font: normal normal 20px "roboto";
+    color:antiquewhite;
+}
+.bg-propio{
+    background-color: #28A745;
+}
+.card{
+    display: flex;
+    justify-items: center;
+    border-radius: 1%;
+    margin-top: 40px;
+    margin-bottom: 40px;  
+}
+.textprecio{
+    color: #707070;
+    opacity: 100%;
+    font-size: 16px;
+    font-family: "Roboto, Light";
+}
+.textoferta{
+    color: #28A745;
+    font-size: 20px;
+    font-family: "Roboto, Medium";
+    font-weight: bold;
+}
+.cupon{
+    display: flex;
+    border-radius: 1%;
+}
+.d-flex{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+
+}
+h5{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font: normal normal 20px "Roboto";
+    color:#212529 ;
+}
+.card-title{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font: normal light 20px "Roboto, light";
+    color:#707070 ;
+}
+.card-text{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font: normal light 16px "Roboto, light";
+    color:#707070 ;
+}
+.direccion{
+    display: flex;
+    justify-content:left;
+    align-items: left;
+    font: normal lighter 13px "Roboto";
+    color:#707070 ;
+}
+i{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    color: #707070;
+    width: 9.2px;
+    height: 6.13px;
+}
+.container text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background-color: #28A745;
+   }
+.mb-3{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items: center;
+}
+.formulario{
+    font: 21px medium "Roboto";
+    color:#FFFFFF;
+}
+#nombre{
+    display: flex;
+    height: 40px;
+    width: 278px;
+}
+#exampleInputEmail1{
+    display: flex;
+    height: 40px;
+    width: 278px;
+}
+.btn btn-light{
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F8F9FA;
+    width: 112.71px;
+    height: 40px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF; 
+}
+.logo-black{
+    width: 82px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+
+}
+#derechos{
+    display: flex;
+    flex: content;
+    align-items: center;
+    font: normal normal 16px "Roboto";
+    color: #707070;
+    width: 278px;
+    height: 38px; 
+
+}
